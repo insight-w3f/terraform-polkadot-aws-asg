@@ -150,7 +150,7 @@ variable "polkadot_client_url" {
 variable "polkadot_client_hash" {
   description = "SHA256 hash of Polkadot client binary"
   type        = string
-  default     = "c34d63e5d80994b2123a3a0b7c5a81ce8dc0f257ee72064bf06654c2b93e31c9"
+  default     = "acae8f45986cf3dc143b42152811b17939891595c16e7bc020466e9e9f1de71e"
 }
 
 variable "node_exporter_url" {
