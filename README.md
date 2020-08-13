@@ -87,7 +87,7 @@ No issue is creating limit on this module.
 | node\_exporter\_user | User for node exporter | `string` | `"node_exporter_user"` | no |
 | num\_instances | Number of instances for ASG | `number` | `1` | no |
 | polkadot\_client\_hash | SHA256 hash of Polkadot client binary | `string` | `"c34d63e5d80994b2123a3a0b7c5a81ce8dc0f257ee72064bf06654c2b93e31c9"` | no |
-| polkadot\_client\_url | URL to Polkadot client binary | `string` | `"https://github.com/w3f/polkadot/releases/download/v0.7.32/polkadot"` | no |
+| polkadot\_client\_url | URL to Polkadot client binary | `string` | `"https://github.com/paritytech/polkadot/releases/download/v0.8.22/polkadot"` | no |
 | project | Name of the project for node name | `string` | `"project"` | no |
 | prometheus\_enabled | Bool to use when Prometheus is enabled | `bool` | `false` | no |
 | public\_key | The public ssh key | `string` | `""` | no |

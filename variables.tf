@@ -144,7 +144,7 @@ variable "use_external_lb" {
 variable "polkadot_client_url" {
   description = "URL to Polkadot client binary"
   type        = string
-  default     = "https://github.com/w3f/polkadot/releases/download/v0.7.32/polkadot"
+  default     = "https://github.com/paritytech/polkadot/releases/download/v0.8.22/polkadot"
 }
 
 variable "polkadot_client_hash" {
